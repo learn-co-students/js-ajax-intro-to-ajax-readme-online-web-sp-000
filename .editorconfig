@@ -1,7 +1,10 @@
 root = true
 
 [*]
-end_of_line = lf
+end_of_
+
+
+line = lf
 indent_style = space
 insert_final_newline = true
 
